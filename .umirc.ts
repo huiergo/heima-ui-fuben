@@ -7,8 +7,8 @@ export default defineConfig({
   logo: 'https://gw.alipayobjects.com/zos/bmw-prod/d60657df-0822-4631-9d7c-e7a869c2f21c/k79dmz3q_w126_h126.png',
   outputPath: 'docs-dist',
   mode: 'site',
-  base: '/heima-ui-2/',
-  publicPath: '/heima-ui-2/',
+  base: '/heima-ui-3/',
+  publicPath: '/heima-ui-3/',
   exportStatic: {},
   // more config: https://d.umijs.org/config
 });
