@@ -5,7 +5,7 @@ interface Config {
 }
 
 const defaultConfig: Config = {
-    prefix: 'heima-ui'
+    prefix: "heima-ui-fubeni"
 }
 
 //  定义一个全局上下文

@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "heima-ui",
+  "name": "heima-ui-fubeni",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",

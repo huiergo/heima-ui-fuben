@@ -11,7 +11,7 @@ group:
 
 ```tsx
 import React from 'react';
-import { Button,ThemeToggle,Card } from 'heima-ui';
+import { Button,ThemeToggle,Card } from "heima-ui-fubeni";
 
 
 export default () => (

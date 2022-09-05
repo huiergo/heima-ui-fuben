@@ -13,7 +13,7 @@ Demo:
 ### 普通按钮
 ```tsx
 import React from 'react';
-import { Button } from 'heima-ui';
+import { Button } from "heima-ui-fubeni";
 
 export default () => <Button text="普通按钮" style={{width:200}}/>;
 ```
@@ -21,7 +21,7 @@ export default () => <Button text="普通按钮" style={{width:200}}/>;
 ### 高亮按钮
 ```tsx
 import React from 'react';
-import { Button } from 'heima-ui';
+import { Button } from "heima-ui-fubeni";
 
 export default () => <Button type='highlight' text="高亮按钮" style={{width:200}}/>;
 ```
@@ -29,7 +29,7 @@ export default () => <Button type='highlight' text="高亮按钮" style={{width:
 ### 禁用按钮
 ```tsx
 import React from 'react';
-import { Button } from 'heima-ui';
+import { Button } from "heima-ui-fubeni";
 
 export default () => <Button text="普通按钮" type='highlight' disabled style={{width:200}}/>;
 ```

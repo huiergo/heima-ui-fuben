@@ -19,7 +19,7 @@ interface ButtonProps {
 export default (props: ButtonProps) => {
     const { type, text, children, disabled, icon, className, style, onClick, orderType } = props
 
-    // const prefix = 'heima-ui'
+    // const prefix = "heima-ui-fubeni"
     const { prefix } = useContext(ConfigContext)
 
     const btnPrefix = prefix + '-btn'
