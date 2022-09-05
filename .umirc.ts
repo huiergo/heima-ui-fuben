@@ -9,5 +9,6 @@ export default defineConfig({
   mode: 'site',
   base: '/heima-ui-2/',
   publicPath: '/heima-ui-2/',
+  exportStatic: {},
   // more config: https://d.umijs.org/config
 });
