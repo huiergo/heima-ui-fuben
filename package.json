@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "heima-ui-3",
+  "name": "heima-ui",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
